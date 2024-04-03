@@ -121,7 +121,7 @@ const App = () => {
     >
       <View  style={styles.container}>
         <View style={{ height: '35%' }}>
-          <Text style={ styles.titleText }>Mis gastos del día</Text>
+          <Text style={ styles.titleText }>Mis gastos</Text>
           <View style={ styles.contentAddGasto }>
             <View style={{ flexDirection: 'row', justifyContent: 'flex-start', alignItems: 'center', marginBottom: 10 }}>
               <Text style={{ color: '#ffffff', fontSize: 15, marginRight: 25 }}>¿Cuánto gastaste? ($): </Text>
